@@ -8,7 +8,7 @@ distributes iFunny or any modified APK: you supply your own copy of the app and 
 ## ➕ Add to Morphe
 
 Tap on your phone with Morphe Manager installed:
-https://morphe.software/add-source?github=YOUR_GITHUB_USER/jaybyte-morphe-patches
+https://morphe.software/add-source?github=EagerGoose32/jaybyte-morphe-patches
 
 Or add this repository URL manually as a patch source in Morphe Manager.
 
