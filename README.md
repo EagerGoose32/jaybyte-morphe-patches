@@ -7,6 +7,14 @@ distributes iFunny or any modified APK: you supply your own copy of the app and 
 
 ## ➕ Add to Morphe
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="featured.jpg" width="250" alt="Featured feed with no promo cards">
+  <img src="comments.jpg" width="250" alt="Comments with no ads">
+  <img src="menu.jpg" width="250" alt="Side menu with a different theme">
+</p>
+
 Tap on your phone with Morphe Manager installed:
 https://morphe.software/add-source?github=EagerGoose32/jaybyte-morphe-patches
 
